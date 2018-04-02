@@ -2,7 +2,7 @@
 'use strict';
 /*
  'use strict' is not required but helpful for turning syntactical errors into true errors in the program flow
- http://www.w3schools.com/js/js_strict.asp
+ http://www.w3hools.com/js/js_strict.asp
 */
 
 /*
